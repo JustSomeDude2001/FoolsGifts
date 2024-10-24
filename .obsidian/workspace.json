@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "8f84e52a6f7b6d86",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0b17858c584e235",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88b553bae2f894f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Модификации для 8 уровня.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Модификации для 8 уровня"
+            }
+          },
+          {
+            "id": "dccd6f74bd75038b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Модификации для 1 уровня.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Модификации для 1 уровня"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cb930f8a46dad94",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd6514c8b240880d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b9ff8ca01b16b23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8324e78e5ae8a3de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6d1d19cdc587dd43",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.5
+  },
+  "right": {
+    "id": "4d2c991ea9dd2071",
+    "type": "split",
+    "children": [
+      {
+        "id": "9535de9d9975cd65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c1debd46844f496",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Модификации для 1 уровня.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Модификации для 1 уровня"
+            }
+          },
+          {
+            "id": "bd5e308c1c306b2b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Модификации для 1 уровня.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Модификации для 1 уровня"
+            }
+          },
+          {
+            "id": "546cae89fc46bd78",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3aea068f1bafac3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Модификации для 1 уровня.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Модификации для 1 уровня"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dccd6f74bd75038b",
+  "lastOpenFiles": [
+    "Модификации для 8 уровня.md",
+    "Рингбрайар.md",
+    "Модификации для 1 уровня.md",
+    "Temp/Fight.md",
+    "Temp/Пати.md",
+    "Temp/Пати (8 уровень).md",
+    "Гробница Дурака/В1 - Бродячий кузнец.md",
+    "Информация/История Дурака (Небогреба).md",
+    "Информация/Легенда о Крылатом Князе.md",
+    "Музыка.md",
+    "Гробница Дурака/Б3 - Люминея.md",
+    "Гробница Дурака/Б2 - Третий брат.md",
+    "Гробница Дурака/Б1 - Генералы.md",
+    "Гробница Дурака/А1 - Вход.md",
+    "Гробница Дурака/0 - Структура.md",
+    "Дары Дурака (Драконы).md",
+    "Дары Дурака (8 уровень).md",
+    "Лес Скайрэйкер/А1 - Хижина Отшельника.md",
+    "Лес Скайрэйкер/0 - Структура.md",
+    "Pasted image 20240705203656.png",
+    "Pasted image 20240707033638.png",
+    "Pasted image 20240707033654.png",
+    "Temp",
+    "Лес Скайрэйкер",
+    "Информация/(Легенда.md",
+    "Информация/Легенда.md",
+    "Информация/'Легенда.md",
+    "Информация/Легенда_о_Крылатом_Князе.md",
+    "Легенда.md",
+    "Информация",
+    "Гробница Дурака",
+    "Pasted image 20240705203643.png"
+  ]
+}
